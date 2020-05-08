@@ -1,0 +1,12 @@
+content {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.6rem 1.2rem;
+  border: 2px solid grey;
+  border-radius: 20px;
+}
+
+p {
+  margin-inline-end: 1.2rem;
+  font-weight: 700;
+}
